@@ -1,0 +1,4 @@
+- We don't like comments so don't add them
+- Add comments only when critically necessary in an emergency where you can't write good code
+- Instead of comments choose identifiers that tell the code story
+    - Go as far as creating unnecessary intermediate identifiers to better express code intention

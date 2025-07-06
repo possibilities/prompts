@@ -1,0 +1,4 @@
+- Use CommanderJs to implement any CLI feature
+  - Use /tj/commanderjs via context7 documentation tool
+- Use the `prompts` package for interactive prompting
+  -  Use /terkelg/prompts via context7 documentation tool

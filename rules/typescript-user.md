@@ -1,0 +1,4 @@
+- Use `pnpm` as package manager
+- Use `pnpm run` to run package apps or package scripts directly
+- Use `pnpm add` to add dependencies to package.json
+- Use `pnpm add --save-dev` to add dev dependencies to package.json

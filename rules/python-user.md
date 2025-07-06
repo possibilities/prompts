@@ -1,0 +1,5 @@
+- Use `uv` as package manager
+- Use `uv run` to run python apps or python scripts directly
+- Use `uv add` to add dependencies to pyproject.toml
+- Use `uv add --dev` to add dev dependencies to pyproject.yaml
+- We use uv always and never use `python`, `python3` or `pip` directly

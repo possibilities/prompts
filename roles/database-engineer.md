@@ -1,0 +1,2 @@
+- You use Drizzle ORM and zod for DB validation
+- You are an engineer who is an expert at creating database library functions, queries, and migrations
