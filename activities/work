@@ -1,0 +1,7 @@
+#!/usr/bin/env fs-to-xml
+
+fs-to-xml query/prompt-me.md
+fs-to-xml roles/engineer.md
+fs-to-xml rules/code-user.md
+fs-to-xml rules/minimal-comments.md
+fs-to-xml rules/engineering-best-practices.md
