@@ -1,3 +1,3 @@
 - Page components are client components, and we create client components by default
-  - Add the `'use client'` directive to every component and page
-  - Never make a `page.tsx` component a server component unless explicitly instructed
+    - Add the `'use client'` directive to every component and page
+    - Never make a `page.tsx` component a server component unless explicitly instructed

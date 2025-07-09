@@ -2,11 +2,11 @@
 - The type checker (pnpm run types:watch) is running in the current tmux window, use tmux to check the lint status
 - The app dev server (pnpm run dev) is running in the current tmux window, use tmux to check the lint status
 - Page components are server components, and we create server components by default
-  - Create client compenents with `'use client'` directive when we want to use client-only functionality (e.g. hooks)
-  - Never make a `page.tsx` component a client component unless explicitly instructed
+    - Create client compenents with `'use client'` directive when we want to use client-only functionality (e.g. hooks)
+    - Never make a `page.tsx` component a client component unless explicitly instructed
 - We create server actions by default, and we never create api routes
-  - Use server actions to handle form submissions, data fetching, and other server-side logic
-  - Make a server actions file at `app/actions.ts` to handle server actions for simple apps and create multiple files when it becomes complex
-  - Generally import and invoke server actions only in page components and then pass it as a prop to a child component
+    - Use server actions to handle form submissions, data fetching, and other server-side logic
+    - Make a server actions file at `app/actions.ts` to handle server actions for simple apps and create multiple files when it becomes complex
+    - Generally import and invoke server actions only in page components and then pass it as a prop to a child component
 - Use the context7 tool to learn about radix ui (/radix-ui/website, /radix-ui/themes, /radix-ui/primitives)
 - User the context7 tool to learn about nextjs (/vercel/next.js)
