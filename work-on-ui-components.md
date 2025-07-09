@@ -1,6 +1,3 @@
-@@query/prompt-me.md
-@@roles/engineer.md
+@@_shared/common.md
 @@roles/typescript-ui.md
-@@rules/global.md
-@@rules/comments.md
 @@rules/nextjs-components.md

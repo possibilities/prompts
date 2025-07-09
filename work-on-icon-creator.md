@@ -1,7 +1,4 @@
-@@query/prompt-me.md
-@@roles/engineer.md
+@@_shared/common.md
+@@rules/typescript.md
 @@roles/typescript-ui.md
-@@rules/global.md
-@@rules/typescript-user.md
-@@rules/comments.md
 @@rules/nextjs-app.md

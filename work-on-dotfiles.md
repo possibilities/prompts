@@ -1,5 +1,2 @@
-@@query/prompt-me.md
-@@roles/engineer.md
-@@rules/global.md
-@@rules/comments.md
+@@_shared/common.md
 @@rules/dotfiles.md

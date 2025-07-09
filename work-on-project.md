@@ -1,2 +1,1 @@
-@@query/prompt-me.md
-@@roles/engineer.md
+@@_shared/common.md
