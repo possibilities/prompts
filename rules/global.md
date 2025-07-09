@@ -1,0 +1,3 @@
+- When you have made multiple attempts solving a problem you are struggling or flailing, place a document with everything you know about the problem in ~/src/docs, stop working, and ask me to forward the question to a powerful AI. The AI will not have access to our codebase so include any information, context, and background that would be useful to understand, answer the question, or solve the problem.
+- Remove any dependency when removing or changing code leaves the dependency unused
+- Remove any file or module when removing or changing code leaves module or module unused

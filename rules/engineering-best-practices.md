@@ -1,2 +1,0 @@
-- Remove any dependency when removing or changing code leaves the dependency unused
-- Remove any file or module when removing or changing code leaves module or module unused

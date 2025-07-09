@@ -1,3 +1,0 @@
-- Use the context7 tool to learn about drei library (/pmndrs/drei)
-- Use the context7 tool to learn about react-three-fiber (/pmndrs/react-three-fiber)
-- Use the context7 tool to learn about three.js (/mrdoob/three.js)

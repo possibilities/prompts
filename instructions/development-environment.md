@@ -1,8 +1,0 @@
-- We're in a tmux environment
-  - Nvim is running in one pane if you need to know what I'm viewing or selecting
-  - Tests are running in another pane if there is a test suite with `pnpm test:watch`
-    - View this pane to learn the status of tests after making changes
-    - Since it's already running you never need to run the test suite after making changes
-  - The app is being built in another pane with `pnpm build:watch`
-    - View this pane content to know if it builds successfully
-    - Since it's already running you never need to rebuild after making changes

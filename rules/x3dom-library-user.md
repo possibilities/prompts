@@ -1,2 +1,0 @@
-- Use the context7 tool to learn about x3dom (/x3dom/x3dom)
-- Use the context7 tool to learn about polyhreda viewer (/tesseralis/polyhedra-viewer)
