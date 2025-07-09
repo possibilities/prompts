@@ -1,5 +1,5 @@
-@@rules/comments.md
-@@project/common.md
-@@rules/general.md
-@@roles/engineer.md
-@@query/prompt-me.md
+@@shared/rules/comments.md
+@@shared/project/common.md
+@@shared/rules/general.md
+@@shared/roles/engineer.md
+@@shared/query/prompt-me.md
