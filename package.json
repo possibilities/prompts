@@ -1,0 +1,11 @@
+{
+  "name": "prompts",
+  "private": true,
+  "scripts": {
+    "export-prompts": "context-composer export --force --commands-path ~/.claude/commands work-*.md",
+    "export-prompts:watch": "nodemon --ext yaml --watch . --exec \"context-composer export --force --commands-path ~/.claude/commands work-*.md\""
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
