@@ -3,3 +3,7 @@
     - When changing something on the system change it in this repo
 - All system software should be added to `./bootstrap-system.sh` script for installation
 - All flatpak desktop applications should be added to `./install-apps.sh` script for installation
+- When working on herbstulftwm
+    - Learn about herbstluftwm by using the context7 tool with /herbstluftwm/herbstluftwm
+    - Learn about the herbstluftwm code with the kit tool with https://github.com/herbstluftwm/herbstluftwm
+    - There are text documents in the herbstluftwm repo for objects docs, herbstclient, and herbstluftwm
