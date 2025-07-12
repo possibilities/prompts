@@ -2,8 +2,9 @@
   "name": "prompts",
   "private": true,
   "scripts": {
-    "export-prompts": "context-composer export --force --commands-path ~/.claude/commands work-*.md",
-    "export-prompts:watch": "nodemon --ext yaml --watch . --exec \"context-composer export --force --commands-path ~/.claude/commands work-*.md\""
+    "copy-claude-commands": "mkdir -p ~/.claude/commands && cp claude/*.md ~/.claude/commands/",
+    "export-prompts": "npm run copy-claude-commands && context-composer export --force --commands-path ~/.claude/commands work-*.md",
+    "export-prompts:watch": "nodemon --ext md --watch . --exec \"npm run copy-claude-commands && context-composer export --force --commands-path ~/.claude/commands work-*.md\""
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
