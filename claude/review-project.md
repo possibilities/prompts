@@ -1,5 +1,5 @@
 ---
-description: Summarize project
+description: Review project
 allowed-tools: Bash(tree:*)
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: Summarize work
+description: Review work
 allowed-tools: Bash(git:*)
 ---
 
