@@ -1,0 +1,3 @@
+We went back and forth but we failed trying to build this feature. Please write up a report that we will forward to a very smart developer in this domain for their advice. Include code snippets/examples (they won't have access to the codebase), context, any useful information, and any open questions you have. Place the document at ~/code/docs/
+
+Next make a second document for another person who might be able to solve the problem given enough information. Create a document so they can understand the objective, receive any instructions, and have full context to solve the problem. This person will have full access to the codebase. Place the document in ~/code/docs/ also.
