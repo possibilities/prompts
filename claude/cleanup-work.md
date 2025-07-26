@@ -1,6 +1,6 @@
 ---
 description: Cleanup work
-allowed-tools: Bash(git:*), Bash(pnpm:*), Bash(echo:*), Bash(cat:*)
+allowed-tools: Bash(git:*), Bash(pnpm:*), Bash(echo:*)
 ---
 Look at the changes we've made so far:
 

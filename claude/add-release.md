@@ -1,5 +1,6 @@
 ---
 description: Add release
+allowed-tools: Bash(cat:*)
 ---
 
 We are going to make this node project releable on npmjs.org
